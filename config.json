@@ -1,0 +1,7 @@
+{
+  "gym_url": "https://your-gym-website.com",
+  "username": "your_username",
+  "password": "your_password",
+  "preferred_times": ["07:00", "08:00", "17:00", "18:00"],
+  "reservation_day": "tomorrow"
+}
